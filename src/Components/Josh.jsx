@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
-import Josh from './Components/Josh';
+
+
 
 function App() {
   return (
     <div className="App">
-     <Josh />
+     <h1>Josh is a fullstack engineer and also a petroleum engineer</h1>
     </div>
     
   );
